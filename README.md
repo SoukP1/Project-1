@@ -2,7 +2,6 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/) 
 
-# Project 1 Portfolio Simulator
 
 **Welcome to our Portfolio Simulator. This was created to be able to predict the theoretical performance
 of a portfolio of stocks using historical close price data and a Monte Carlo simluation.**
