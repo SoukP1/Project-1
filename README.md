@@ -57,10 +57,15 @@ On the dashboard, start by uploading
 ---
 
 ## Contributors
+
 The Portfolio Simulator application created by:
+
 *Sam Eberts 
+
 *Souk Phoumiphak 
+
 *Joe Verhei 
+
 *Jonathan Kang
 
 ---
