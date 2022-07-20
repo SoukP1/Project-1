@@ -25,20 +25,28 @@ This project has been created with the following technologies:
 
 ---
 
-## Installation Guide
+## User Guide
 
-The Portfolio Simulator is a command line interface (CLI) application. In order to order to run this application, the following must be installed for it to work:
+The source code is currently hosted in a Github repository at the following link: 
+https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
-* A command line application such as Git Bash for Windows or Terminal for Mac.
+The Portfolio Simulator is run using a Streamlit dashboard.
 
-* There are several libraries that must be installed. The following must be installed using "pip install XXXXX". As an example, in
-your terminal, install Streamlit using: pip install Streamlit
-> "pip install streamlit"
+To run the simulator, go to the README.md file at the following link: https://github.com/SoukP1/Project-1/blob/main/README.md
 
-* Use the same "pip install" command for the following:*
-* Pandas
-* Alpaca
-* Hvplot
+Click on the Streamlit link within the README.md file. This will take you to the Streamlit dashboard.
+
+In order for the simulator run, you must create a csv file that contains a list of symbols of the stocks you wish to choose.
+You must also include a quantity of each stock chosen. The following screenshot shows an example csv file. Your csv file
+must match the format of the example.
+
+Once you have your csv file, upload the file to the Streamlit dashboard section that says "upload file".
+
+After the csv file has been uploaded, choose the beginning and end date of historical data you wish to pull. From there, 
+choose the length of time you wish to hold your stock.
+
+Once all the parameters have been completed, click "run" for the simulator to execute. After the simulator finishes running,
+the results of the simulator and a visual graph will display.
 
 
 ---
