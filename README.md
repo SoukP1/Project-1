@@ -60,13 +60,13 @@ On the dashboard, start by uploading
 
 The Portfolio Simulator application created by:
 
-*Sam Eberts 
+Sam Eberts 
 
-*Souk Phoumiphak 
+Souk Phoumiphak 
 
-*Joe Verhei 
+Joe Verhei 
 
-*Jonathan Kang
+Jonathan Kang
 
 ---
 
