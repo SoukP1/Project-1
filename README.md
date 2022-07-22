@@ -49,18 +49,6 @@ Once all the parameters have been completed, click "run" for the simulator to ex
 the results of the simulator and a visual graph will display.
 
 
----
-
-## Usage
-
-The source code is currently hosted in a Github repository at the following link: 
-https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
-
-To use the Portfolio Simulator, clone the respository to your local machine. In your command line interface, change your directory to the portfolio analyzer enviroment.
-Activate the simulator program by typing "streamlit run XXXXXX". This will open a webpage and bring you to a Streamlit dashboard.
-
-On the dashboard, start by uploading
-
 
 ---
 
