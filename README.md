@@ -1,6 +1,6 @@
 # Project 1 Portfolio Simulator
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/) 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jkang-project-1-forecasting-appfinal-appforecasting-app-g93q8s.streamlitapp.com/) 
 
 
 **Welcome to our Portfolio Simulator. This was created to be able to predict the theoretical performance
